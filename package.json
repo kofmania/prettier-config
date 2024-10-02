@@ -1,0 +1,17 @@
+{
+  "name": "@kofmania/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "kofmania",
+  "license": "MIT",
+  "description": "prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kofmania/prettier-config.git"
+  },
+  "homepage": "https://github.com/kofmania/prettier-config.git"
+}
